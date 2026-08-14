@@ -3,7 +3,7 @@
 Power your business with digital payments integration including PesaPal, M-pesa and Card for both offline and online systems. 
 ## Download
 
-[![Download v1.0.0](https://img.shields.io/badge/Download_v1.0.0-Windows-2ea44f?style=for-the-badge&logo=windows)](https://github.com/NjauSamuel/DeskCheque-Releases/releases/download/v1.0.0/DeskCheque_1.0.0_x64-setup.exe)
+[![Download v1.0.1](https://img.shields.io/badge/Download_v1.0.1-Windows-2ea44f?style=for-the-badge&logo=windows)](https://github.com/NjauSamuel/DeskCheque-Releases/releases/download/v1.0.1/DeskCheque_1.0.1_x64-setup.exe)
 
 Click the badge to download the installer directly. Run the `.exe` and follow the prompts.
 
